@@ -24,9 +24,9 @@ filled to start applying, build it up as you go, and lead with the capabilities 
 are most confident explaining.
 -->
 
-**Name:** [YOUR NAME]
-**LinkedIn:** [linkedin.com/in/yourprofile]
-**GitHub:** [github.com/yourusername]
+**Name:** Mustafa Ahmed
+**LinkedIn:** https://www.linkedin.com/in/mustafa-ahmed-437b7b19b
+**GitHub:** https://github.com/Mustafa9779
 **Status:** In progress
 
 ---
